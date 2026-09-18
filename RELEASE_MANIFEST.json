@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "project": "C-korean-education-demand-map",
+  "canonical_source_repository": "lifeinbeats9-prog/mbc-abc-portfolio",
+  "release_repository": "lifeinbeats9-prog/seoul-korean-education-demand-map",
+  "source_head": "f4c62dab72f9ed380a6c6942970843b130a9d807",
+  "public_baseline": {
+    "population": "registered_foreigner",
+    "geography": "Seoul 25 gu",
+    "label": "end-2025",
+    "nationality_period": "2025Q4",
+    "age_period": "2025Q4",
+    "stay_status_period": "2025"
+  },
+  "content_file_count": 5,
+  "content_bytes": 254224,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1201,
+      "sha256": "e07188e047051258b4edb4af52bb9e50bcf4b63254f9683114fc30ac3d2c00f9"
+    },
+    {
+      "path": "assets/index-6H9S8ETI.js",
+      "bytes": 248887,
+      "sha256": "8c7f6ee739faffce9ffb53c01d6ad19b4a95c958f703144ae8e353448e3b9c90"
+    },
+    {
+      "path": "assets/index-DF2slz0L.css",
+      "bytes": 3556,
+      "sha256": "2670e656b33026b39899a91a5377120cd3dd212f7df7c0323fc7ccf0223abb27"
+    },
+    {
+      "path": "index.html",
+      "bytes": 580,
+      "sha256": "853f4fc8d11d5c610df0ee24b4678687bb1f7bcfb05c80d5267674ae44d16ae5"
+    }
+  ]
+}
